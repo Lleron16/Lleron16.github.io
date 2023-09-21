@@ -53,7 +53,15 @@ createPlatform(800, 500, 20, 15)
 createPlatform(1000, 650, 20, 15)
 createPlatform(800, 500, 20, 15)
 createPlatform(1150, 520, 15, 15)
-createColletible()
+createCannon("bottom", 300, 500)
+createCannon("left" , 650, 1)
+createCannon("bottom",  815, 470,)
+createCollectable('database',975, 400, 0, 0)
+createCannon("left", 200, 800)
+
+
+
+
 
 
 
