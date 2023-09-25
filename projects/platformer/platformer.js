@@ -58,6 +58,8 @@ createCannon("left" , 650, 1)
 createCannon("bottom",  815, 470,)
 createCollectable('database',975, 400, 0, 0)
 createCannon("left", 200, 800)
+createCollectable('database',725, 250, 1, 1)
+createCollectable('database',250, 300, 0, 0)
 
 
 
